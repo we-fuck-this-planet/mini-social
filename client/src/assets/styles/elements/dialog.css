@@ -1,0 +1,48 @@
+.dialog {
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  border-bottom: 1px solid #ebeef0;
+  cursor: pointer;
+}
+
+.messenger__online {
+  position: relative;
+}
+
+.messenger__online img {
+  margin: 0 10px 0 0;
+  display: block;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.dialog__info {
+  width: 100%;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dialog__info h3 {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0 5px 0 0;
+}
+
+.dialog__info p {
+  color: #5b7083;
+  font-size: 14px;
+}
+
+.last-message {
+  margin: 5px 0 0 -5px;
+  font-size: 14px;
+  color: #5b7083;
+  padding: 5px;
+}

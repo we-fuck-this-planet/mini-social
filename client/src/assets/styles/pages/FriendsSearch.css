@@ -1,0 +1,25 @@
+.content__left {
+  display: flex;
+  align-items: center;
+}
+
+.search-icon {
+  text-decoration: none;
+  color: #5b7083;
+  padding: 7px 17px 8px;
+  background-color: #ebeef0;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.search-input {
+  background-color: #ebeef0;
+  border: unset;
+  font-size: 14px;
+  margin: 0 0 0 -4px;
+  padding: 9px 17px 9px 0;
+  width: 300px;
+  outline: none;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}

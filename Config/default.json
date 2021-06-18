@@ -1,0 +1,9 @@
+{
+  "port": 3000,
+  "mongoUri": "mongodb+srv://quikkkk:12as34zxc@cluster0.gp2jz.mongodb.net/data",
+  "baseUrl": "https://localhost:3000",
+  "jwtSecret": "auth",
+  "SENDGRID_API_KEY": "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",
+  "EMAIL_FROM": "alex4185@ukr.net",
+  "BASE_URL": "http://localhost:3000"
+}
